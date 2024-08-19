@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+        "name":"story book",
+        "title":"story telling books",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931138.jpg?uid=R157224432&ga=GA1.1.1598360407.1722253533&semt=ais_hybrid"
+    },
+    {
+        "id":2,
+        "name":"Horror special",
+        "title":"haunted stories",
+        "price":400,
+        "category":"black world",
+        "image":"https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931138.jpg?uid=R157224432&ga=GA1.1.1598360407.1722253533&semt=ais_hybrid"
+    },
+    {
+        "id":3,
+        "name":"comedy books",
+        "title":"entertainment",
+        "price":100,
+        "category":"comedy special",
+        "image":"https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931138.jpg?uid=R157224432&ga=GA1.1.1598360407.1722253533&semt=ais_hybrid"
+    },
+    {
+        "id":4,
+        "name":"spiritual books",
+        "title":"divine world",
+        "price":500,
+        "category":"spiritual",
+        "image":"https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931138.jpg?uid=R157224432&ga=GA1.1.1598360407.1722253533&semt=ais_hybrid"
+    },
+    {
+        "id":5,
+        "name":"story book",
+        "title":"story telling books",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931138.jpg?uid=R157224432&ga=GA1.1.1598360407.1722253533&semt=ais_hybrid"
+    },
+    {
+        "id":6,
+        "name":"story book",
+        "title":"story telling books",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931138.jpg?uid=R157224432&ga=GA1.1.1598360407.1722253533&semt=ais_hybrid"
+    },
+    {
+        "id":7,
+        "name":"story book",
+        "title":"story telling books",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931138.jpg?uid=R157224432&ga=GA1.1.1598360407.1722253533&semt=ais_hybrid"
+    },
+    {
+        "id":8,
+        "name":"story book",
+        "title":"story telling books",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931138.jpg?uid=R157224432&ga=GA1.1.1598360407.1722253533&semt=ais_hybrid"
+    }
+
+]
